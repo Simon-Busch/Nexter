@@ -1,0 +1,20 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.scss",
+        "Abstracts/_variables.scss",
+        "Base/_base.scss",
+        "Base/_typography.scss",
+        "Components/_features.scss",
+        "Components/_gallery.scss",
+        "Components/_realtors.scss",
+        "Components/_story.scss",
+        "Layout/_footer.scss",
+        "Layout/_header.scss",
+        "Layout/_homes.scss",
+        "Layout/_sidebar.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
